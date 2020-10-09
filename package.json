@@ -19,7 +19,7 @@
     "node": ">=10"
   },
   "dependencies": {
-    "html_codesniffer": "^2.5.1"
+    "html_codesniffer": "git+https://github.com/TarunK151/HTML_CodeSniffer"
   },
   "devDependencies": {
     "@rowanmanning/make": "^2.1.0",
